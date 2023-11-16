@@ -1,0 +1,28 @@
+/* header */
+.header .main {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+  align-items: center;
+}
+
+.header .main .date {
+
+}
+
+.header .main .logo {
+  flex-grow: 1;
+}
+
+.header .menu {
+
+}
+
+.header .menu .left {
+
+}
+
+.header .menu .right {
+
+}
+
